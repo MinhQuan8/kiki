@@ -1,0 +1,938 @@
+Cơ sở của việc quản lí tổ chức là gì?
+A. Thông tin không chính xác
+B. Kỹ thuật số hóa
+C. Dữ liệu phản ánh thông tin hoạt động
+D. Phần mềm quản lí
+ANSWER: C
+
+Để đảm bảo thông tin quản lí chính xác, dữ liệu cần phải:
+A. Đa dạng
+B. Đầy đủ và chính xác
+C. Dễ truy cập
+D. Được cập nhật hàng ngày
+ANSWER: B
+
+"Hồ sơ" trong bài toán quản lí thường được hiểu như thế nào?
+A. Một tập hợp dữ liệu không cần tổ chức
+B. Một tập hợp dữ liệu được tổ chức theo khuôn mẫu
+C. Chỉ dữ liệu cá nhân
+D. Chỉ dữ liệu tài chính
+ANSWER: B
+
+Khi tạo lập hồ sơ cho mỗi bài toán quản lí, điều quan trọng nhất là gì?
+A. Tốc độ nhập liệu
+B. Dữ liệu đầy đủ và chính xác
+C. Số lượng dữ liệu lớn
+D. Dữ liệu có thể được chia sẻ
+ANSWER: B
+
+Cập nhật dữ liệu bao gồm những thao tác nào?
+A. Chỉ thêm mới
+B. Chỉ sửa
+C. Chỉ xóa
+D. Thêm, sửa, xóa
+ANSWER: D
+
+Mục đích chính của việc khai thác thông tin là gì?
+A. Lưu trữ dữ liệu
+B. Phục vụ công tác quản lí
+C. Tạo ra dữ liệu mới
+D. Xóa dữ liệu cũ
+ANSWER: B
+
+Cơ sở dữ liệu (CSDL) là gì?
+A. Một hệ thống chương trình
+B. Một tập hợp hồ sơ dữ liệu số hóa
+C. Phần mềm quản lý tài chính
+D. Dữ liệu không cần tổ chức
+ANSWER: B
+
+Hệ quản trị CSDL (DBMS) giúp làm gì?
+A. Tạo lập và cập nhật CSDL
+B. Chỉ tạo lập CSDL
+C. Chỉ cập nhật CSDL
+D. Chỉ xóa CSDL
+ANSWER: A
+
+Một hệ cơ sở dữ liệu bao gồm những thành phần nào?
+A. Chỉ CSDL
+B. Chỉ hệ quản trị CSDL
+C. CSDL, hệ quản trị CSDL, và các phần mềm ứng dụng
+D. Chỉ các phần mềm ứng dụng
+ANSWER: C
+
+Thao tác nào không phải là một phần của cập nhật dữ liệu?
+A. Thêm dữ liệu mới
+B. Sửa dữ liệu sai
+C. Phân tích dữ liệu
+D. Xóa dữ liệu không cần thiết
+ANSWER: C
+
+Cập nhật dữ liệu đảm bảo tính gì cho dữ liệu?
+A. Tính đa dạng
+B. Tính đúng đắn
+C. Tính thẩm mỹ
+D. Tính giải trí
+ANSWER: B
+
+Tại sao cần tạo lập hồ sơ?
+A. Để lưu trữ dữ liệu cá nhân
+B. Để quản lí thông tin một cách hợp lí
+C. Để giảm dung lượng lưu trữ
+D. Để tăng tốc độ của máy tính
+ANSWER: B
+
+Cơ sở dữ liệu khác với hệ quản trị CSDL như thế nào?
+A. CSDL là dữ liệu, hệ quản trị CSDL là chương trình
+B. Hệ quản trị CSDL là dữ liệu, CSDL là chương trình
+C. Cả hai đều là dữ liệu
+D. Cả hai đều là chương trình
+ANSWER: A
+
+Hệ thống quản lý CSDL giúp gì trong quản lí?
+A. Chỉ lưu trữ dữ liệu
+B. Chỉ xử lí văn bản
+C. Tương tác dễ dàng với CSDL
+D. Lưu trữ dữ liệu và xử lý văn bản
+ANSWER: C
+
+Dữ liệu trong hồ sơ cần được cập nhật khi nào?
+A. Khi có thay đổi trên thực tế
+B. Mỗi ngày một lần
+C. Khi hệ thống máy tính yêu cầu
+D. Khi người dùng muốn
+ANSWER: A
+
+Đặc điểm chung của các bài toán quản lí là gì?
+A. Đều không liên quan đến dữ liệu
+B. Đều liên quan đến dữ liệu về hoạt động của tổ chức
+C. Đều sử dụng phần mềm giống nhau
+D. Đều không cần hệ thống quản trị CSDL
+ANSWER: B
+
+Dữ liệu "đầy đủ" nghĩa là gì?
+A. Có mọi thông tin không liên quan
+B. Chỉ có thông tin quan trọng
+C. Có đủ thông tin theo yêu cầu quản lí
+D. Chỉ thông tin cá nhân
+ANSWER: C
+
+Tác dụng của việc khai thác thông tin là gì?
+A. Tạo ra dữ liệu mới
+B. Lưu trữ dữ liệu lâu dài
+C. Phục vụ công tác quản lí và ra quyết định
+D. Giảm dung lượng lưu trữ
+ANSWER: C
+
+Trong quá trình xử lí thông tin trong bài toán quản lí thì công việc nào sau đây bắt buộc phải thực hiện trước các công việc còn lại?
+A. Tạo lập hồ sơ	
+B. Cập nhật dữ liệu	
+C. Khai thác thông tin		
+D. In hồ sơ
+ANSWER: A
+
+Phát biểu nào sau đây sai?
+A. Khi tạo lập hồ sơ, dữ liệu của bài toán thường được lưu trữ trong các bảng.
+B. Trong hồ sơ quản lí “Dữ liệu phải đầy đủ so với yêu cầu quản lí”.
+C. Trong hồ sơ quản lí “Dữ liệu phải chính xác”.
+D. Dữ liệu của hồ sơ không nhất thiết phải chính xác vì máy có thể phát hiện sai sót và xử lí nó.
+ANSWER: D
+
+Thao tác nào sau đây không thuộc nhóm “Cập nhật dữ liệu”?
+A. Sửa đổi dữ liệu.
+B. Thêm/bổ sung dữ liệu.
+C. Xóa dữ liệu
+D. Thống kê dữ liệu.
+ANSWER: D
+
+Chọn đáp án đúng trả lời câu hỏi: “Một số việc khai thác thông tin thường gặp là?”
+A. Tìm kiếm dữ liệu, thống kê, lập báo cáo.
+B. Sửa chữa, bổ sung thêm, xóa để đảm bảo phản ánh kịp thời, đúng thực tế.
+C. Nhập dữ liệu, tìm kiếm dữ liệu, lập báo cáo.
+D. Tìm kiếm dữ liệu, thống kê, xóa dữ liệu
+ANSWER: A
+
+Phát biểu nào sau đây là đúng?
+A. Phần mềm cung cấp một môi trường thuận lợi và hiệu quả để tạo lập, lưu trữ và khai thác dữ liệu của CSDL được gọi là Hệ quản trị cơ cở dữ liệu.
+B. Phần mềm cung cấp một môi trường thuận lợi và hiệu quả để tạo lập CSDL được gọi là CSDL
+C. Phần mềm cung cấp một môi trường thuận lợi và hiệu quả để lưu trữ CSDL được gọi là hệ quản trị cơ cở dữ liệu.
+D. Phần mềm cung cấp một môi trường thuận lợi và hiệu quả để khai thác thông tin của cơ sở dữ liệu được gọi là hệ quản trị cơ cở dữ liệu.
+ANSWER: A
+
+Phát biểu nào sau đây là đúng?
+A. Hệ cơ sở dữ liệu gồm một tập hợp gồm: cơ sở dữ liệu, hệ quản trị cơ sở dữ liệu và phần mềm ứng dụng cho phép tương tác với CSDL.
+B. Hệ cơ sở dữ liệu chính là một cơ sở dữ liệu nào đó .
+C. Hệ cơ sở dữ liệu gồm một cơ sở dữ liệu cùng với hệ điều hành để hệ quản trị CSDL thực hiện.
+D. Hệ cơ sở dữ liệu là một hệ quản trị cơ sở dữ liệu.
+ANSWER: A
+
+Xét tệp lưu trữ hồ sơ học bạ của học sinh, trong đó lưu trữ điểm tổng kết của các môn Văn, Toán, Lý , Hóa, Tin. Hỏi việc tính điểm trung bình 5 môn đó thuộc công việc nào sau đây?
+A.Tìm kiếm dữ liệu.        
+B. Khai thác hồ sơ.	
+C. Tạo lập hồ sơ. 
+D. Cập nhật hồ sơ.
+ANSWER: B
+
+Bạn Nam sử dụng phần mềm Access để tạo các bảng chứa thông tin của học sinh lớp 11…Hãy chọn phát biểu  đúng trong các phát biểu sau đây?
+A. Access là một CSDL		
+B. Các bảng được tạo ra là một Hệ QTCSD
+C. Access là một Hệ QTCSDL		
+D. Access là một Hệ CSDL
+ANSWER: C
+
+Bạn Nam sử dụng phần mềm Access để tạo các bảng chứa thông tin của học sinh lớp 11…Hãy chọn phát biểu  đúng trong các phát biểu sau đây?
+A. Access là một CSDL		
+B. Các bảng được tạo ra là một CSDL.
+C. Các bảng được tạo ra là một Hệ QTCSDL	
+D. Các bảng được tạo ra là một Hệ CSDL
+ANSWER: B
+
+
+Cơ sở dữ liệu quan hệ tổ chức dữ liệu dưới dạng gì?
+A. Đồ thị
+B. Bảng
+C. Cây
+D. Chuỗi
+ANSWER: B
+
+Mỗi hàng trong bảng của CSDL quan hệ được gọi là gì?
+A. Cột
+B. Bản ghi
+C. Dữ liệu
+D. Trường
+ANSWER: B
+
+Trong CSDL quan hệ, một cột được gọi là gì?
+A. Bản ghi
+B. Dữ liệu
+C. Hàng
+D. Trường
+ANSWER: D
+
+Cập nhật dữ liệu trong CSDL quan hệ bao gồm những thao tác nào?
+A. Thêm, sửa, xóa
+B. Tìm kiếm, sắp xếp
+C. Kết nối, nhóm
+D. Chia, trộn
+ANSWER: A
+
+Ràng buộc toàn vẹn về dữ liệu trong CSDL quan hệ bao gồm điều kiện nào sau đây?
+A. Cùng một giá trị có thể xuất hiện nhiều lần trong một cột
+B. Mỗi ô trong bảng có thể chứa nhiều giá trị
+C. Mỗi bảng có một tên phân biệt với các bảng khác
+D. Hai bản ghi giống nhau hoàn toàn có thể tồn tại trong một bảng
+ANSWER: C
+
+Một bảng trong CSDL quan hệ có thể có bao nhiêu khóa chính?
+A. Nhiều
+B. Chỉ một
+C. Không có
+D. Hai
+ANSWER: B
+
+Cơ chế nào đảm bảo không có hai bản ghi có giá trị khóa giống nhau trong CSDL quan hệ?
+A. Ràng buộc dữ liệu
+B. Ràng buộc khóa
+C. Ràng buộc toàn vẹn tham chiếu
+D. Ràng buộc toàn vẹn thực thể
+ANSWER: B
+
+Hệ quản trị CSDL sử dụng cơ chế gì để ngăn chặn vi phạm ràng buộc khóa?
+A. Kiểm soát phiên bản
+B. Tự động kiểm tra cập nhật dữ liệu
+C. Sao lưu dữ liệu
+D. Phân quyền người dùng
+ANSWER: B
+
+Trong CSDL quan hệ, tại sao cần phải có khóa chính?
+A. Để tăng tốc độ truy vấn
+B. Để xác định duy nhất một bản ghi
+C. Để lưu trữ nhiều dữ liệu hơn
+D. Để đơn giản hóa cấu trúc bảng
+ANSWER: B
+
+Việc chọn khóa chính trong CSDL quan hệ có mục đích gì?
+A. Tăng khả năng bảo mật
+B. Giảm dung lượng lưu trữ
+C. Đảm bảo tính duy nhất cho mỗi bản ghi
+D. Tăng tốc độ xử lý dữ liệu
+ANSWER: C
+
+Ràng buộc miền giá trị trong CSDL quan hệ được sử dụng để làm gì?
+A. Hạn chế kiểu dữ liệu của một cột
+B. Giới hạn các giá trị có thể có của một trường
+C. Định dạng lại dữ liệu
+D. Tăng tốc độ truy vấn
+ANSWER: B
+
+Cập nhật dữ liệu trong một bảng CSDL quan hệ không bao gồm thao tác nào sau đây?
+A. Thêm dữ liệu mới
+B. Sửa dữ liệu hiện có
+C. Xóa dữ liệu
+D. Phân tích dữ liệu
+ANSWER: D
+
+Tại sao trong một bảng CSDL quan hệ không có hai bản ghi giống nhau hoàn toàn?
+A. Để tiết kiệm không gian lưu trữ
+B. Để tăng tốc độ truy vấn
+C. Để đảm bảo tính duy nhất của dữ liệu
+D. Để giảm thiểu lỗi nhập liệu
+ANSWER: C
+
+Trong CSDL quan hệ, trường hợp nào sau đây vi phạm ràng buộc khóa?
+A. Thêm một bản ghi với khóa chính đã tồn tại
+B. Xóa một bản ghi
+C. Cập nhật một trường không phải khóa
+D. Thêm một bản ghi với khóa chính mới
+ANSWER: A
+
+Hệ quản trị CSDL kiểm tra điều gì để đảm bảo ràng buộc khóa không bị vi phạm?
+A. Tính duy nhất của dữ liệu nhập vào
+B. Tốc độ nhập liệu
+C. Dung lượng bảng
+D. Phiên bản phần mềm
+ANSWER: A
+
+Trong một bảng trong CSDL quan hệ, mỗi trường phải có tên phân biệt với tất cả các trường khác là một ràng buộc gì?
+A. Ràng buộc về kiểu dữ liệu
+B. Ràng buộc về tên bảng
+C. Ràng buộc về giá trị duy nhất
+D. Ràng buộc về tên trường
+ANSWER: D
+
+Ràng buộc như "Mã định danh của mỗi học sinh phải là một dãy số không quá 12 ký tự, tất cả các kí tự đều là số" là một ràng buộc gì?
+A. Ràng buộc về tên trường
+B. Ràng buộc về tên bảng
+C. Ràng buộc về giá trị duy nhất
+D. Ràng buộc miền giá trị
+ANSWER: D
+
+Phát biểu nào SAI trong các phát biểu sau khi nói về khoá chính?
+A. Một bảng có thể có nhiều khoá chính
+B. Mỗi bảng có ít nhất một khoá
+C. Xác định khoá phụ thuộc vào quan hệ logic của các dữ liệu chứ không phụ thuộc vào giá trị các dữ liệu
+D. Nên chọn khoá chính là khoá có ít thuộc tính nhất
+ANSWER: A
+
+
+Dữ liệu dư thừa trong CSDL quan hệ có thể gây ra vấn đề gì?
+A. Giảm hiệu suất truy vấn
+B. Tăng tính bảo mật
+C. Dữ liệu không nhất quán khi cập nhật
+D. Tăng không gian lưu trữ cần thiết
+ANSWER: C
+
+Vì sao nên chia dữ liệu thành nhiều bảng trong CSDL quan hệ?
+A. Tăng dung lượng lưu trữ
+B. Phức tạp hóa quản lý dữ liệu
+C. Tránh dữ liệu dư thừa
+D. Giảm hiệu suất truy xuất
+ANSWER: C
+
+Khóa ngoài (Foreign Key) trong CSDL quan hệ dùng để làm gì?
+A. Xác định mối quan hệ giữa các bảng
+B. Lưu trữ dữ liệu chính của bảng
+C. Tăng cường bảo mật cho CSDL
+D. Giảm kích thước của bảng
+ANSWER: A
+
+Một bảng tham chiếu đến bảng khác thông qua cột nào?
+A. Khóa chính
+B. Khóa ngoài
+C. Cột chỉ mục
+D. Cột thông tin phụ
+ANSWER: B
+
+Tính nhất quán dữ liệu trong CSDL quan hệ được đảm bảo như thế nào?
+A. Thông qua ràng buộc khóa ngoài
+B. Bằng cách sử dụng một bảng duy nhất
+C. Thông qua tối ưu hóa truy vấn
+D. Bằng cách mã hóa dữ liệu
+ANSWER: A
+
+Ràng buộc khóa ngoài có chức năng gì?
+A. Ngăn chặn dữ liệu dư thừa
+B. Đảm bảo tính toàn vẹn tham chiếu
+C. Tăng hiệu suất truy vấn
+D. Giảm kích thước CSDL
+ANSWER: B
+
+Khi nào xảy ra mất tham chiếu trong CSDL quan hệ?
+A. Khi giá trị khóa ngoài không khớp với khóa chính ở bảng được tham chiếu
+B. Khi tất cả dữ liệu được lưu trong một bảng
+C. Khi dữ liệu được cập nhật thường xuyên
+D. Khi sử dụng nhiều chỉ mục cho một bảng
+ANSWER: A
+
+Cơ sở dữ liệu quan hệ được thiết kế như thế nào để tránh dư thừa dữ liệu?
+A. Lưu trữ tất cả dữ liệu trong một bảng
+B. Phân chia dữ liệu vào nhiều bảng và sử dụng khóa ngoài
+C. Mã hóa dữ liệu
+D. Sử dụng nhiều chỉ mục
+ANSWER: B
+
+Một hệ quản trị CSDL đảm bảo tính toàn vẹn dữ liệu thông qua cách nào?
+A. Khai báo và kiểm soát ràng buộc khóa ngoài
+B. Giữ tất cả dữ liệu trong một bảng
+C. Tăng cường bảo mật thông qua mã hóa
+D. Sử dụng một khóa chính duy nhất cho toàn bộ CSDL
+ANSWER: A
+
+Bảng SÁCH trong CSDL thư viện chứa thông tin gì?
+A. Dữ liệu về các sự kiện mượn sách
+B. Dữ liệu về người đọc
+C. Dữ liệu về các quyển sách
+D. Dữ liệu về các lớp học
+ANSWER: C
+
+Tại sao việc bổ sung bản ghi mới có giá trị khóa ngoài không tồn tại trong bảng được tham chiếu lại là không hợp lệ?
+A. Vì nó làm tăng kích thước của CSDL
+B. Vì nó vi phạm ràng buộc khóa ngoài
+C. Vì nó giảm hiệu suất truy vấn
+D. Vì nó làm giảm tính bảo mật của CSDL
+ANSWER: B
+
+Liên kết giữa các bảng trong CSDL quan hệ được thiết lập như thế nào?
+A. Thông qua cặp khóa chính – khóa ngoài
+B. Bằng cách sử dụng cùng một tên cột
+C. Thông qua mã hóa dữ liệu
+D. Bằng cách lưu trữ dữ liệu trong một bảng
+ANSWER: A
+
+Cách nào không phải là một giải pháp để tránh dư thừa dữ liệu trong CSDL quan hệ?
+A. Sử dụng khóa ngoài
+B. Phân chia dữ liệu vào nhiều bảng
+C. Lưu trữ tất cả dữ liệu trong một bảng
+D. Thiết kế cơ sở dữ liệu có cấu trúc
+ANSWER: C
+
+Hệ quản trị CSDL sử dụng ràng buộc khóa ngoài để làm gì?
+A. Tăng tốc độ truy vấn
+B. Giảm dung lượng lưu trữ
+C. Kiểm soát các thao tác cập nhật
+D. Mã hóa dữ liệu
+ANSWER: C
+
+Liên kết giữa bảng MƯỢN-TRẢ và SÁCH dựa trên thuộc tính nào?
+
+A. Số thẻ TV
+B. Mã sách
+C. Tên sách
+D. Ngày mượn
+ANSWER: B
+
+Việc thiết kế CSDL quan hệ gồm nhiều bảng mang lại lợi ích gì?
+A. Tăng khả năng mất mát dữ liệu
+B. Giảm nguy cơ dữ liệu không nhất quán
+C. Tăng độ phức tạp của hệ thống
+D. Yêu cầu nhiều thời gian hơn để truy vấn
+ANSWER: B
+
+Một bản ghi mới trong bảng tham chiếu có giá trị khóa ngoài không tồn tại trong bảng được tham chiếu sẽ gây ra hậu quả gì?
+A. Tăng hiệu suất hệ thống
+B. Không gây ra hậu quả nào
+C. Mất tính tham chiếu và toàn vẹn dữ liệu
+D. Tăng tính bảo mật của CSDL
+ANSWER: C
+
+Trong một CSDL quan hệ, khóa ngoài là gì?
+A. Một thuộc tính xác định duy nhất mỗi bản ghi trong một bảng
+B. Một thuộc tính liên kết một bảng với một bảng khác
+C. Một thuộc tính chỉ dùng để mã hóa dữ liệu
+D. Một thuộc tính dùng để tăng tốc độ truy vấn
+ANSWER: B
+
+Ràng buộc khóa ngoài giúp đảm bảo điều gì trong CSDL quan hệ?
+A. Mọi giá trị khóa ngoài đều phải xuất hiện trong giá trị khóa của bảng được tham chiếu
+B. Mọi bảng đều phải có ít nhất một khóa ngoài
+C. Mọi giá trị khóa chính đều phải là duy nhất
+D. Mọi bảng đều phải có một khóa chính
+ANSWER: A
+
+
+Biểu mẫu được sử dụng trong hệ thống CSDL để phục vụ cho mục đích nào sau đây?
+A. Hiển thị dữ liệu trong bảng để xem
+B. Chỉ cho phép nhập dữ liệu mới
+C. Cho phép sửa đổi dữ liệu
+D. Cả A và C
+ANSWER: D
+
+Mục đích chính của việc thiết kế biểu mẫu cho xem dữ liệu là gì?
+A. Hỗ trợ tra cứu thông tin trong phạm vi được phép
+B. Cho phép người dùng thay đổi cấu trúc của dữ liệu
+C. Tạo ra giao diện nhập dữ liệu phức tạp
+D. Cung cấp nút lệnh để thực hiện các thao tác với dữ liệu
+ANSWER: A
+
+Biểu mẫu cho xem dữ liệu có thể hiển thị dữ liệu từ bao nhiêu bảng khác nhau?
+A. Chỉ từ một bảng
+B. Từ nhiều bảng khác nhau
+C. Chỉ từ bảng chính
+D. Không thể hiển thị dữ liệu từ nhiều bảng
+ANSWER: B
+
+Mục đích chính của việc thiết kế biểu mẫu cập nhật dữ liệu là gì?
+A. Hiển thị dữ liệu cho việc tra cứu
+B. Cho phép sửa đổi cấu trúc của dữ liệu
+C. Chỉ để hỗ trợ việc nhập liệu mới
+D. Hỗ trợ việc cập nhật dữ liệu một cách thuận tiện và an toàn
+ANSWER: D
+
+Biểu mẫu cập nhật dữ liệu thường có các ô nhập dữ liệu nào?
+A. Chỉ có ô nhập dữ liệu còn trống
+B. Chỉ có ô nhập dữ liệu chứa dữ liệu đã có
+C. Có thể có cả ô nhập dữ liệu còn trống và chứa dữ liệu đã có
+D. Không có ô nhập dữ liệu
+ANSWER: C
+
+Biểu mẫu được thiết kế để phục vụ mục đích nào sau đây?
+A. Cung cấp một khuôn dạng thuận tiện để nhập và sửa dữ liệu
+B. Hiển thị dữ liệu trong bảng dưới dạng phù hợp để xem
+C. Cung cấp nút lệnh để thực hiện thao tác với dữ liệu
+D. Tất cả các phương án đều đúng
+ANSWER: D
+
+Cách thiết kế biểu mẫu phức tạp thường được sử dụng trong loại ứng dụng CSDL nào?
+A. Các ứng dụng CSDL đơn giản
+B. Các ứng dụng CSDL lớn và phức tạp
+C. Cả A và B
+D. Không có loại ứng dụng CSDL nào sử dụng biểu mẫu phức tạp
+ANSWER: B
+
+Mục đích chính của việc sử dụng biểu mẫu trong hệ thống CSDL là gì?
+A. Tạo ra giao diện phức tạp cho người dùng
+B. Hỗ trợ người dùng tương tác với CSDL một cách thuận tiện và an toàn
+C. Kiểm soát việc truy cập vào CSDL
+D. Tất cả các phương án đều đúng
+ANSWER: B
+
+Để tạo biểu mẫu, người dùng có thể sử dụng công cụ nào sau đây?
+A. Công cụ thiết kế biểu mẫu tự động
+B. Ngôn ngữ lập trình
+C. Cả A và B
+D. Không có công cụ nào để tạo biểu mẫu
+ANSWER: C
+
+Biểu mẫu cho xem dữ liệu thường có thể hiển thị dữ liệu theo cách nào sau đây?
+A. Hiển thị dữ liệu của một nhóm người dùng
+B. Hiển thị dữ liệu theo một trường cụ thể
+C. Hiển thị dữ liệu theo thứ tự ngẫu nhiên
+D. Hiển thị dữ liệu người dùng cần hoặc phần dữ liệu được phép xem
+ANSWER: D
+
+Biểu mẫu cập nhật dữ liệu thường được thiết kế như thế nào để hỗ trợ việc cập nhật một cách thuận tiện và an toàn?
+A. Chỉ có ô nhập dữ liệu còn trống
+B. Chỉ có ô nhập dữ liệu chứa dữ liệu đã có
+C. Có thể có cả ô nhập dữ liệu còn trống và chứa dữ liệu đã có
+D. Không có ô nhập dữ liệu
+ANSWER: C
+
+Mục đích chính của biểu mẫu cho xem dữ liệu là gì?
+A. Cho phép người dùng chỉnh sửa dữ liệu
+B. Hiển thị dữ liệu trong bảng dưới dạng phù hợp để xem
+C. Tạo ra giao diện nhập dữ liệu phức tạp
+D. Cung cấp nút lệnh để thực hiện các thao tác với dữ liệu
+ANSWER: B
+
+Biểu mẫu cập nhật dữ liệu giúp hạn chế được những gì khi cập nhật dữ liệu?
+A. Hạn chế được việc nhập liệu mới
+B. Hạn chế được việc sửa đổi cấu trúc của dữ liệu
+C. Hạn chế được việc nhập liệu sai lệch
+D. Hạn chế được việc truy cập vào CSDL
+ANSWER: C
+
+Biểu mẫu được thiết kế nhằm mục đích nào sau đây?
+A. Hiển thị dữ liệu trong bảng dưới dạng phù hợp để xem
+B. Chỉ hiển thị dữ liệu theo thứ tự ngẫu nhiên
+C. Cho phép người dùng thay đổi cấu trúc của dữ liệu
+D. Tạo ra giao diện nhập dữ liệu phức tạp
+ANSWER: A
+
+Công cụ nào thường được sử dụng để tạo biểu mẫu một cách nhanh chóng?
+A. Công cụ thiết kế biểu mẫu tự động
+B. Ngôn ngữ lập trình
+C. Cả A và B
+D. Không có công cụ nào để tạo biểu mẫu
+ANSWER: A
+
+
+Khái niệm truy vấn CSDL là gì?
+A. Một phát biểu yêu cầu của người dùng đối với CSDL
+B. Một loại dữ liệu trong CSDL
+C. Một chỉ thị dùng để sắp xếp dữ liệu
+D. Một loại biến trong lập trình
+ANSWER: A
+
+Ngôn ngữ truy vấn phổ biến nhất cho hệ quản trị CSDL quan hệ là gì?
+A. Python
+B. SQL
+C. Java
+D. C++
+ANSWER: B
+
+SELECT, FROM, WHERE là các phần cấu trúc của câu truy vấn SQL?
+A. Đúng
+B. Sai
+C. Không đủ thông tin để đánh giá
+D. Tất cả đều sai
+ANSWER: A
+
+Trong câu truy vấn SQL, phần nào chứa tên các trường dữ liệu cần đưa ra kết quả?
+A. SELECT
+B. FROM
+C. WHERE
+D. GROUP BY
+ANSWER: A
+
+Trong câu truy vấn SQL, phần nào chứa tên bảng trong CSDL được truy cập để lấy dữ liệu?
+A. SELECT
+B. FROM
+C. WHERE
+D. GROUP BY
+ANSWER: B
+
+Trong câu truy vấn SQL, phần nào chứa biểu thức logic chọn các bản ghi đưa ra kết quả?
+A. SELECT
+B. FROM
+C. WHERE
+D. GROUP BY
+ANSWER: C
+
+Ngôn ngữ truy vấn QBE là viết tắt của gì?
+A. Query By Example
+B. Query By Entity
+C. Query By Execution
+D. Query By Entry
+ANSWER: A
+
+Hệ quản trị CSDL nào cho phép truy vấn bằng cả SQL và QBE?
+A. MySQL
+B. PostgreSQL
+C. SQL Server
+D. Access
+ANSWER: D
+
+Trong QBE, người dùng thường điền thông tin vào đâu để tạo câu truy vấn?
+A. Câu lệnh SQL
+B. Bảng dữ liệu
+C. Chữ ký số
+D. Điền vào chỗ trống trong một bảng
+ANSWER: D
+
+SQL là viết tắt của gì?
+A. Structured Query Language
+B. Simple Query Language
+C. Syntax Query Language
+D. Scripted Query Language
+ANSWER: A
+
+Để tránh lỗi khi tên trường dữ liệu chứa dấu cách trong câu truy vấn SQL, cần làm gì?
+A. Sử dụng dấu gạch dưới (_) thay cho dấu cách
+B. Đặt tên trường trong cặp dấu ngoặc kép (")
+C. Sử dụng cặp dấu [] để bao quanh tên trường
+D. Không có cách nào để xử lý vấn đề này
+ANSWER: C
+
+SQL có thể được sử dụng để thực hiện những thao tác nào trên CSDL?
+A. Thêm, sửa, xóa bản ghi
+B. Tìm kiếm và trích xuất dữ liệu
+C. Thực hiện phép tính và phân tích dữ liệu
+D. Tất cả các phương án đều đúng
+ANSWER: D
+
+Để lấy ra các bản ghi có giá trị trường 'age' lớn hơn hoặc bằng 18 trong bảng 'users', câu truy vấn SQL sẽ như thế nào?
+A. SELECT * FROM users WHERE age >= 18
+B. SELECT * FROM users WHERE age > 18
+C. SELECT * FROM users WHERE age <= 18
+D. SELECT * FROM users WHERE age < 18
+ANSWER: A
+
+SQL có hỗ trợ sắp xếp kết quả truy vấn theo một hoặc nhiều trường không?
+A. Có
+B. Không
+C. Chỉ ở một số trường hợp
+D. Phụ thuộc vào phiên bản SQL
+ANSWER: A
+
+SQL là ngôn ngữ truy vấn dành cho hệ quản trị CSDL loại nào?
+A. Cơ sở dữ liệu quan hệ
+B. Cơ sở dữ liệu mạng
+C. Cơ sở dữ liệu hệ thống tập tin
+D. Cơ sở dữ liệu không gian
+ANSWER: A
+
+
+Trong SQL, để kết hợp dữ liệu từ hai bảng khác nhau, ta sử dụng từ khóa nào?
+A) JOIN
+B) SELECT
+C) WHERE
+D) FROM
+ANSWER: A
+
+Để kết hợp dữ liệu từ hai bảng, điều kiện kết nối thường được đặt ở đâu?
+A) WHERE
+B) SELECT
+C) GROUP BY
+D) FROM
+ANSWER: A
+
+Kiểu JOIN nào được sử dụng phổ biến nhất trong SQL?
+A) INNER JOIN
+B) OUTER JOIN
+C) LEFT JOIN
+D) RIGHT JOIN
+ANSWER: A
+
+Trong một INNER JOIN, điều kiện kết nối là gì?
+A) Giá trị trên một trường chung của hai bảng kết nối phải trùng nhau.
+B) Giá trị trên một trường chung của hai bảng kết nối không được trùng nhau.
+C) Giá trị trên một trường chung của hai bảng kết nối phải là NULL.
+D) Không có điều kiện kết nối trong INNER JOIN.
+ANSWER: A
+
+Từ khóa nào được sử dụng để loại bỏ các dòng trùng lặp từ kết quả truy vấn?
+A) DISTINCT
+B) UNIQUE
+C) GROUP BY
+D) HAVING
+ANSWER: A
+
+Mục đích chính của INNER JOIN là gì?
+A) Ghép nối các bảng theo điều kiện kết nối và lấy ra các dữ liệu thỏa mãn điều kiện đó.
+B) Ghép nối các bảng mà không cần điều kiện kết nối.
+C) Lấy ra tất cả dữ liệu từ các bảng được kết nối.
+D) Loại bỏ các dòng trùng lặp từ kết quả truy vấn.
+ANSWER: A
+
+Bạn đang viết một câu truy vấn SQL để tìm thông tin về các học sinh mượn sách. Bảng nào được kết nối với bảng NGƯỜI ĐỌC trong truy vấn?
+A) Bảng SÁCH
+B) Bảng MƯỢN-TRẢ
+C) Bảng NGƯỜI ĐỌC
+D) Bảng TÁC GIẢ
+ANSWER: B
+
+Trong một INNER JOIN, nếu không có điều kiện kết nối, kết quả trả về sẽ như thế nào?
+A) Tất cả các bản ghi từ cả hai bảng sẽ được kết hợp với nhau.
+B) Không có kết quả nào được trả về.
+C) Chỉ có các bản ghi từ bảng trái sẽ được trả về.
+D) Chỉ có các bản ghi từ bảng phải sẽ được trả về.
+ANSWER: B
+
+Từ khóa DISTINCT được sử dụng để làm gì trong một truy vấn SQL?
+A) Lọc ra các dòng trùng lặp từ kết quả truy vấn.
+B) Liệt kê tất cả các giá trị của một trường.
+C) Sắp xếp kết quả truy vấn theo một trường cụ thể.
+D) Xác định điều kiện kết nối trong INNER JOIN.
+ANSWER: A
+
+Đâu là một ví dụ về điều kiện kết nối trong INNER JOIN?
+A) [Bảng1].[TrườngA] = [Bảng2].[TrườngB]
+B) [Bảng1].[TrườngA] > [Bảng2].[TrườngB]
+C) [Bảng1].[TrườngA] LIKE [Bảng2].[TrườngB]
+D) [Bảng1].[TrườngA] <> [Bảng2].[TrườngB]
+ANSWER: A
+
+Quan hệ giữa hai bảng là một-một khi nào?
+A) Mỗi bản ghi trong bảng thứ nhất tương ứng với một bản ghi trong bảng thứ hai và ngược lại.
+B) Mỗi bản ghi trong bảng thứ nhất tương ứng với nhiều bản ghi trong bảng thứ hai.
+C) Mỗi bản ghi trong bảng thứ nhất tương ứng với nhiều bản ghi trong bảng thứ hai và ngược lại.
+D) Không có bản ghi nào tương ứng với nhau giữa hai bảng.
+ANSWER: A
+
+Báo cáo CSDL là gì?
+A) Một văn bản trình bày thông tin kết xuất từ CSDL, thường được trình bày theo mẫu quy định.
+B) Một công cụ để tạo biểu mẫu từ CSDL.
+C) Một loại truy vấn SQL để trích xuất dữ liệu từ CSDL.
+D) Một công cụ để tạo truy vấn tự động từ CSDL.
+ANSWER: A
+
+
+Cơ sở dữ liệu tập trung được lưu trữ trên:
+A. Nhiều máy tính khác nhau
+B. Một máy tính duy nhất
+C. Một mạng máy tính
+D. Nhiều mạng máy tính
+ANSWER: B
+
+Đặc điểm của hệ CSDL phân tán là gì?
+A. Dữ liệu được lưu trữ tại nhiều máy tính khác nhau
+B. Dữ liệu được lưu trữ tại một máy tính duy nhất
+C. Dữ liệu được lưu trữ trên một mạng máy tính
+D. Dữ liệu được lưu trữ trên cùng một site
+ANSWER: A
+
+Hệ CSDL phân tán được sử dụng rộng rãi trong:
+A. Các hệ thống bán vé tàu hỏa
+B. Các hệ thống quản lí học sinh
+C. Các hệ thống bán vé máy bay
+D. Các hệ thống tìm kiếm như Google
+ANSWER: D
+
+Hệ CSDL phân tán có ưu điểm gì so với hệ CSDL tập trung?
+A. Chi phí thấp hơn
+B. Tính sẵn sàng và tin cậy cao hơn
+C. Dễ dàng đảm bảo tính nhất quán dữ liệu
+D. Dễ dàng cung cấp một cái nhìn thống nhất cho người dùng
+ANSWER: B
+
+Đặc điểm của kiến trúc 1-Tier Architecture là gì?
+A. CSDL được lưu trữ trên một máy tính duy nhất
+B. CSDL được lưu trữ trên nhiều máy tính khác nhau
+C. Có nhiều tầng truy cập dữ liệu
+D. Không có máy chủ CSDL
+ANSWER: A
+
+Kiến trúc 2-Tier Architecture bao gồm:
+A. Một tầng truy cập dữ liệu và một tầng máy chủ CSDL
+B. Hai tầng truy cập dữ liệu
+C. Hai tầng máy chủ CSDL
+D. Một tầng máy chủ CSDL và một tầng máy chủ ứng dụng
+ANSWER: A
+
+Kiến trúc 3-Tier Architecture mở rộng từ:
+A. Kiến trúc 1-Tier
+B. Kiến trúc 2-Tier
+C. Kiến trúc 4-Tier
+D. Kiến trúc 5-Tier
+ANSWER: B
+
+Một trong những ưu điểm của hệ CSDL tập trung là:
+A. Tính sẵn sàng và tin cậy cao hơn
+B. Dữ liệu được lưu trữ tại một máy tính duy nhất nên truy cập và điều phối dễ dàng hơn
+C. Dễ dàng đảm bảo tính nhất quán dữ liệu
+D. Khả năng mở rộng linh hoạt hơn
+ANSWER: B
+
+Kiến trúc 1-Tier Architecture phù hợp cho:
+A. Các hệ thống phức tạp
+B. Các hệ thống đơn giản
+C. Các hệ thống tìm kiếm như Google
+D. Các hệ thống dựa trên web tương tự Google
+ANSWER: B
+
+Đặc điểm nào sau đây KHÔNG phải của hệ CSDL tập trung?
+A. Dữ liệu được lưu trữ tại một máy tính duy nhất
+B. Dễ dàng đảm bảo tính nhất quán dữ liệu
+C. Truy cập và điều phối dữ liệu dễ dàng hơn
+D. Khả năng mở rộng linh hoạt hơn
+ANSWER: D
+
+
+
+
+
+
+
+Tại sao việc bảo vệ sự an toàn của hệ CSDL là quan trọng?
+A. Vì giúp tránh được mọi rủi ro
+B. Vì ảnh hưởng đến hoạt động hàng ngày của tổ chức và hiệu suất làm việc của mọi người
+C. Vì giúp tăng cường hiệu suất làm việc của nhân viên
+D. Vì giúp tổ chức thu được nhiều lợi nhuận hơn
+ANSWER: B
+
+Bảo mật thông tin trong CSDL là gì?
+A. Bảo vệ dữ liệu khỏi các loại virus
+B. Bảo vệ tính bí mật của thông tin trong CSDL
+C. Bảo vệ hệ thống mạng
+D. Bảo vệ dữ liệu khỏi sự mất mát
+ANSWER: B
+
+Ví dụ về thông tin cần được bảo mật trong CSDL là gì?
+A. Mã pin tài khoản ngân hàng
+B. Tên các nhân viên trong công ty
+C. Các thông tin về sản phẩm công ty sản xuất
+D. Các thông tin trên website công ty
+ANSWER: A
+
+Mã hóa dữ liệu là gì?
+A. Quá trình chuyển đổi dữ liệu sang một định dạng khác gọi là bản mã
+B. Quá trình sao lưu dự phòng dữ liệu
+C. Quá trình nén dữ liệu
+D. Quá trình giải nén dữ liệu
+ANSWER: A
+
+Mục tiêu của mã hóa dữ liệu là gì?
+A. Bảo vệ tính bí mật của dữ liệu kĩ thuật số
+B. Giảm dung lượng lưu trữ
+C. Tạo ra bản sao lưu của dữ liệu
+D. Bảo vệ hệ thống mạng
+ANSWER: A
+
+Biện pháp nào dùng để tạo ra rào cản giữa mạng nội bộ đáng tin cậy và mạng bên ngoài không tin cậy?
+A. Xác thực người truy cập
+B. Sử dụng tường lửa
+C. Sao lưu dự phòng dữ liệu
+D. Nén dữ liệu
+ANSWER: B
+
+Để kiểm soát việc xem dữ liệu trong CSDL, cần thực hiện biện pháp nào?
+A. Xác thực người truy cập
+B. Sử dụng tường lửa
+C. Mã hóa dữ liệu
+D. Nén dữ liệu
+ANSWER: A
+
+Biện pháp nào giúp tăng cường tính bảo mật dữ liệu và giảm dung lượng lưu trữ?
+A. Mã hóa dữ liệu
+B. Nén dữ liệu
+C. Xác thực người truy cập
+D. Sử dụng tường lửa
+ANSWER: B
+
+Đối với việc bảo mật thông tin trong CSDL, việc gì có thể góp phần tăng cường tính bảo mật?
+A. Sử dụng tường lửa
+B. Mã hóa dữ liệu
+C. Xác thực người truy cập
+D. Sao lưu dự phòng dữ liệu
+ANSWER: B
+
+111 Bảo vệ sự an toàn của hệ CSDL và bảo mật thông tin trong CSDL làm gì?
+A. Bảo vệ dữ liệu bên trong CSDL
+B. Bảo vệ tính bí mật của thông tin
+C. Bảo vệ hệ quản trị CSDL
+D. Tất cả các đều đúng
+ANSWER: D
+
+Biện pháp nào được sử dụng để bảo vệ sự an toàn của hệ CSDL?
+A. Sử dụng tường lửa
+B. Mã hóa dữ liệu
+C. Xác thực người truy cập
+D. Tất cả các đều đúng
+ANSWER: D
+
+Biện pháp nào giúp ngăn chặn người xâm nhập trái phép vào các thành phần vật lí của hệ thống?
+A. Sử dụng tường lửa
+B. Xác thực người truy cập
+C. Mã hóa dữ liệu
+D. Nén dữ liệu
+ANSWER: B
+
+Tại sao việc sao lưu dự phòng dữ liệu quan trọng?
+A. Để giảm dung lượng lưu trữ
+B. Để dễ dàng khôi phục dữ liệu sau khi có sự cố
+C. Để bảo vệ tính bí mật của dữ liệu
+D. Để tạo ra các bản mã dữ liệu
+ANSWER: B
+
+Biện pháp nào không thuộc về việc bảo vệ sự an toàn của hệ CSDL?
+A. Sử dụng tường lửa
+B. Mã hóa dữ liệu
+C. Nén dữ liệu
+D. Xác thực người truy cập
+ANSWER: C
+
+Mục tiêu chính của việc sử dụng tường lửa là gì?
+A. Bảo vệ tính bí mật của dữ liệu
+B. Ngăn chặn người xâm nhập trái phép vào mạng nội bộ
+C. Giảm dung lượng lưu trữ
+D. Tạo ra bản mã dữ liệu
+ANSWER: B
+
+Tại sao mã hóa dữ liệu được coi là một biện pháp quan trọng trong bảo mật thông tin?
+A. Vì giúp giảm dung lượng lưu trữ
+B. Vì giúp bảo vệ tính bí mật của dữ liệu kĩ thuật số
+C. Vì giúp ngăn chặn người xâm nhập trái phép vào mạng nội bộ
+D. Vì giúp tạo ra các bản mã dữ liệu
+ANSWER: B
+
+

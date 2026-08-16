@@ -1,0 +1,1200 @@
+{
+    "61554488062442": {
+        "userName": null,
+        "fullName": "Khôn Lồi",
+        "shortName": "Khôn",
+        "gender": "MALE",
+        "vocative": "thg lồn",
+        "profileUrl": "https://www.facebook.com/profile.php?id=61554488062442",
+        "profileImage": "https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-1/433144306_122134932764149602_9026011894591139638_n.jpg?stp=dst-jpg_p120x120&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kQwDeqzCytcQ7kNvgHvwJxi&_nc_ht=scontent.fsgn5-5.fna&oh=00_AYDohlxZxjPiBXZRxJm870Fus7PfaspKNFZW5sXuFuz0xA&oe=6657EBEC",
+        "isFriend": false,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 369044266,
+        "inventory": {}
+    },
+    "100013780963480": {
+        "userName": "VtDung1805",
+        "fullName": "Võ Tuấn Dũng",
+        "shortName": "Dũng",
+        "gender": "MALE",
+        "vocative": "anh",
+        "profileUrl": "https://www.facebook.com/VtDung1805",
+        "profileImage": "https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-1/435699651_1816897792112902_2020946950716093673_n.jpg?stp=dst-jpg_p120x120&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0_3fa4mf1wgQ7kNvgGTC6xz&_nc_ht=scontent.fsgn5-5.fna&oh=00_AYBglfDC5KE9xdG1w4w35WBCoYgUtIbTZnG4ZHLbNeqKjw&oe=6657D6CD",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 101800,
+        "inventory": {}
+    },
+    "100015113982123": {
+        "userName": "m.khoi.0901",
+        "fullName": "Trần Minh Khôi",
+        "shortName": "Minh Khôi",
+        "gender": "MALE",
+        "vocative": "anh trai",
+        "profileUrl": "https://www.facebook.com/m.khoi.0901",
+        "profileImage": "https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-1/439893390_1858551514658630_6954654714189378714_n.jpg?stp=dst-jpg_p120x120&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=7f-Qe--292oQ7kNvgHqpCKU&_nc_ht=scontent.fsgn5-14.fna&oh=00_AYCk1DpduD5KHiVglHitUCNF77tjBXmsRCvjYXl-sDjGDw&oe=6657D6F3",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 1216052,
+        "inventory": {
+            "stocks": {
+                "NFLX": {
+                    "quantity": 0,
+                    "buyPrice": 492.16
+                },
+                "TSLA": {
+                    "quantity": 0,
+                    "buyPrice": 218.89
+                },
+                "AMZN": {
+                    "quantity": 0,
+                    "buyPrice": 154.62
+                },
+                "GOOG": {
+                    "quantity": 0,
+                    "buyPrice": 144.24
+                },
+                "MCD": {
+                    "quantity": 0,
+                    "buyPrice": 293.47
+                }
+            },
+            "pets": {
+                "sumatra": {
+                    "time": "21:24:16 - 08/02/2024",
+                    "name": "Top 1 Yasuo THPT Nguyễn Hữu Cầu",
+                    "alive": true,
+                    "type": "Gà Sumatra",
+                    "health": 0,
+                    "endurance": 0,
+                    "damage": 0,
+                    "speed": 0.1,
+                    "exp": 5100,
+                    "equipment": []
+                },
+                "gallus": {
+                    "time": "21:31:49 - 08/02/2024",
+                    "name": "Trùm Trường THPT Nguyễn Hữu Cầu 😎😎😎😎😎😀😃😀😗🤔😅🤔😅🤔😍🤔🙂🤔😶🤔🙂🤔🙂😯😣😯😣😯😴😜😴😜😴😝🤑🙃😔🙃🙃😔😓😜😜😳😳😰😱☠☠☠☠☠☠☠☠☠☠🌊💧🤑🥰🤑🥰🍊🥰🍊🎸🎸🎧🎷🎧🎷🎤🔕🦓🦝🦁🐵🦁🦍🦍🦍🦍🦍🦍🦍🦍🐩🦝🐩🐒🐩🐵🦁🦝🐎🦓🐎🦓🦌🐎🦌🐴🦌🐴🦌🐴🦌🐴🐴🦌🍇🍑🍈🍑🍅🍑🥥🍆🥥🍆🥥🍆🥥🍆🍅🍆🍅🥔🥔🌶️🥔🥒🥔🥒🥔🥒mckxkxkkcc🍆🥔🥒🥔🥒🍒🍅🥔🥠🍧🥠🍧🥠🍤🍠🍤🍠🍠",
+                    "alive": true,
+                    "type": "Gà Gallus",
+                    "health": 890,
+                    "endurance": 32,
+                    "damage": 99,
+                    "speed": 3.2,
+                    "exp": 1450,
+                    "equipment": ["spur"]
+                }
+            },
+            "petItems": {
+                "goldenSeed": {
+                    "type": "food",
+                    "name": "Thóc Vàng",
+                    "quantity": 0
+                },
+                "dumbKey": {
+                    "type": "key",
+                    "name": "Dumb Key",
+                    "quantity": 0
+                },
+                "scale": {
+                    "type": "equipment",
+                    "name": "Vảy Gà",
+                    "quantity": 1
+                },
+                "chicken": {
+                    "type": "food",
+                    "name": "Thịt Gà",
+                    "quantity": 0
+                },
+                "seed": {
+                    "type": "food",
+                    "name": "Thóc",
+                    "quantity": 0
+                },
+                "spur": {
+                    "type": "equipment",
+                    "name": "Cựa Gà",
+                    "quantity": 1
+                }
+            },
+            "soccer": {
+                "436313": {
+                    "date": "19/05/2024",
+                    "competition": "Premier League",
+                    "homeTeam": "Arsenal",
+                    "awayTeam": "Everton",
+                    "betTeam": 1,
+                    "bet": 100000,
+                    "earn": 200000,
+                    "winner": 1,
+                    "status": "WIN"
+                },
+                "436321": {
+                    "date": "19/05/2024",
+                    "competition": "Premier League",
+                    "homeTeam": "Man City",
+                    "awayTeam": "West Ham",
+                    "betTeam": 1,
+                    "bet": 100000,
+                    "earn": 300000,
+                    "winner": 1,
+                    "status": "WIN"
+                },
+                "436322": {
+                    "date": "19/05/2024",
+                    "competition": "Premier League",
+                    "homeTeam": "Sheffield Utd",
+                    "awayTeam": "Tottenham",
+                    "betTeam": 2,
+                    "bet": 200000,
+                    "earn": 800000,
+                    "winner": 2,
+                    "status": "WIN"
+                },
+                "438842": {
+                    "date": "19/05/2024",
+                    "competition": "Primera Division",
+                    "homeTeam": "Villarreal",
+                    "awayTeam": "Real Madrid",
+                    "betTeam": 2,
+                    "bet": 100000,
+                    "earn": 100000,
+                    "winner": 2,
+                    "status": "WIN"
+                },
+                "438850": {
+                    "date": "25/05/2024",
+                    "competition": "Primera Division",
+                    "homeTeam": "Real Madrid",
+                    "awayTeam": "Real Betis",
+                    "betTeam": 1,
+                    "bet": 300000,
+                    "earn": 0,
+                    "winner": null,
+                    "status": "UNDEFINED"
+                },
+                "443007": {
+                    "date": "19/05/2024",
+                    "competition": "Ligue 1",
+                    "homeTeam": "FC Metz",
+                    "awayTeam": "PSG",
+                    "betTeam": 2,
+                    "bet": 200000,
+                    "earn": 600000,
+                    "winner": 2,
+                    "status": "WIN"
+                },
+                "444616": {
+                    "date": "19/05/2024",
+                    "competition": "Serie A",
+                    "homeTeam": "Inter",
+                    "awayTeam": "Lazio",
+                    "betTeam": 1,
+                    "bet": 100000,
+                    "earn": 0,
+                    "winner": 2,
+                    "status": "LOSE"
+                },
+                "444620": {
+                    "date": "20/05/2024",
+                    "competition": "Serie A",
+                    "homeTeam": "Salernitana",
+                    "awayTeam": "Verona",
+                    "betTeam": 2,
+                    "bet": 200000,
+                    "earn": 400000,
+                    "winner": 2,
+                    "status": "WIN"
+                },
+                "444632": {
+                    "date": "25/05/2024",
+                    "competition": "Serie A",
+                    "homeTeam": "Milan",
+                    "awayTeam": "Salernitana",
+                    "betTeam": 1,
+                    "bet": 300000,
+                    "earn": 0,
+                    "winner": null,
+                    "status": "UNDEFINED"
+                },
+                "451683": {
+                    "date": "07/05/2024",
+                    "competition": "UEFA Champions League",
+                    "homeTeam": "PSG",
+                    "awayTeam": "Dortmund",
+                    "betTeam": 1,
+                    "bet": 328936,
+                    "earn": 0,
+                    "winner": 2,
+                    "status": "LOSE"
+                },
+                "451684": {
+                    "date": "08/05/2024",
+                    "competition": "UEFA Champions League",
+                    "homeTeam": "Real Madrid",
+                    "awayTeam": "Bayern",
+                    "betTeam": 1,
+                    "bet": 170930,
+                    "earn": 341860,
+                    "winner": 1,
+                    "status": "WIN"
+                },
+                "494862": {
+                    "date": "09/05/2024",
+                    "competition": "Copa Libertadores",
+                    "homeTeam": "Liverpool",
+                    "awayTeam": "Palmeiras",
+                    "betTeam": 2,
+                    "bet": 100000,
+                    "earn": 600000,
+                    "winner": 2,
+                    "status": "WIN"
+                }
+            }
+        }
+    },
+    "100031062066271": {
+        "userName": "cuong.tanvinh.33",
+        "fullName": "Tân Vĩnh Cường",
+        "shortName": "Cường",
+        "gender": "MALE",
+        "vocative": "thg ngu",
+        "profileUrl": "https://www.facebook.com/cuong.tanvinh.33",
+        "profileImage": "https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p120x120&_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TjvMJrJitowQ7kNvgGiASlw&_nc_ht=scontent.fsgn5-12.fna&oh=00_AYDwLN9V1_tHWZDA0-YnLG44871H8zVNt6WLs15W7Orq4A&oe=667988F8",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 199,
+        "inventory": {
+            "soccer": {
+                "451683": {
+                    "date": "07/05/2024",
+                    "competition": "UEFA Champions League",
+                    "homeTeam": "PSG",
+                    "awayTeam": "Dortmund",
+                    "betTeam": 1,
+                    "bet": 100701,
+                    "earn": 0,
+                    "winner": null,
+                    "status": "UNDEFINED"
+                }
+            }
+        }
+    },
+    "100039672707266": {
+        "userName": "phat.nguyenminh.5099940",
+        "fullName": "Phat Nguyen Minh",
+        "shortName": "Phat",
+        "gender": "MALE",
+        "vocative": "thg lồn",
+        "profileUrl": "https://www.facebook.com/phat.nguyenminh.5099940",
+        "profileImage": "https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p120x120&_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TjvMJrJitowQ7kNvgGiASlw&_nc_ht=scontent.fsgn5-12.fna&oh=00_AYDwLN9V1_tHWZDA0-YnLG44871H8zVNt6WLs15W7Orq4A&oe=667988F8",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 100763,
+        "inventory": {
+            "stocks": {
+                "META": {
+                    "quantity": 0,
+                    "buyPrice": 374.49
+                },
+                "TSLA": {
+                    "quantity": 0,
+                    "buyPrice": 218.89
+                },
+                "GOOG": {
+                    "quantity": 0,
+                    "buyPrice": 144.24
+                },
+                "SHOP": {
+                    "quantity": 0,
+                    "buyPrice": 81.4
+                },
+                "AMZN": {
+                    "quantity": 0,
+                    "buyPrice": 154.62
+                }
+            },
+            "soccer": {
+                "444600": {
+                    "date": "06/05/2024",
+                    "competition": "Serie A",
+                    "homeTeam": "Salernitana",
+                    "awayTeam": "Atalanta",
+                    "betTeam": 2,
+                    "bet": 200000,
+                    "earn": 400000,
+                    "winner": 2,
+                    "status": "WIN"
+                },
+                "451683": {
+                    "date": "07/05/2024",
+                    "competition": "UEFA Champions League",
+                    "homeTeam": "PSG",
+                    "awayTeam": "Dortmund",
+                    "betTeam": 2,
+                    "bet": 200000,
+                    "earn": 400000,
+                    "winner": 2,
+                    "status": "WIN"
+                },
+                "451684": {
+                    "date": "08/05/2024",
+                    "competition": "UEFA Champions League",
+                    "homeTeam": "Real Madrid",
+                    "awayTeam": "Bayern",
+                    "betTeam": 2,
+                    "bet": 500000,
+                    "earn": 0,
+                    "winner": 1,
+                    "status": "LOSE"
+                },
+                "494813": {
+                    "date": "08/05/2024",
+                    "competition": "Copa Libertadores",
+                    "homeTeam": "Talleres",
+                    "awayTeam": "Barcelona SC",
+                    "betTeam": 2,
+                    "bet": 400000,
+                    "earn": 0,
+                    "winner": 1,
+                    "status": "LOSE"
+                },
+                "494850": {
+                    "date": "07/05/2024",
+                    "competition": "Copa Libertadores",
+                    "homeTeam": "Palestino",
+                    "awayTeam": "Flamengo",
+                    "betTeam": 2,
+                    "bet": 400000,
+                    "earn": 0,
+                    "winner": 1,
+                    "status": "LOSE"
+                }
+            }
+        }
+    },
+    "100045889026141": {
+        "userName": "nguyenhoangan1304",
+        "fullName": "Nguyễn An",
+        "shortName": "An",
+        "gender": "MALE",
+        "vocative": "thg lồn",
+        "profileUrl": "https://www.facebook.com/nguyenhoangan1304",
+        "profileImage": "https://scontent.fsgn5-12.fna.fbcdn.net/v/t39.30808-1/422867390_918791116327181_2589356873582254681_n.jpg?stp=dst-jpg_p120x120&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-0ARE4sqJWQQ7kNvgHZgbNd&_nc_ht=scontent.fsgn5-12.fna&oh=00_AYB6lUZWmYkpXE_O4Z8Ban4P3RhHFjp6IxXtxvTJ0PUQtg&oe=6657EAE3",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 12800,
+        "inventory": {
+            "soccer": {
+                "436298": {
+                    "date": "06/05/2024",
+                    "competition": "Premier League",
+                    "homeTeam": "Crystal Palace",
+                    "awayTeam": "Man United",
+                    "betTeam": 2,
+                    "bet": 100000,
+                    "earn": 0,
+                    "winner": 1,
+                    "status": "LOSE"
+                }
+            }
+        }
+    },
+    "100050363720764": {
+        "userName": "NezTQM",
+        "fullName": "Minh Nezu",
+        "shortName": "Nezu",
+        "gender": "MALE",
+        "vocative": "thg lồn",
+        "profileUrl": "https://www.facebook.com/NezTQM",
+        "profileImage": "https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-1/403163173_906228797732569_1282143478569278483_n.jpg?stp=dst-jpg_p120x120&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KSEVYPhcZjMQ7kNvgFZlplJ&_nc_ht=scontent.fsgn5-14.fna&oh=00_AYDOMpIPrTOfoYalMnVv6__L9GvdtbS4U_doVTOrIYBq4Q&oe=6657CC93",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 68600,
+        "inventory": {
+            "soccer": {
+                "438850": {
+                    "date": "25/05/2024",
+                    "competition": "Primera Division",
+                    "homeTeam": "Real Madrid",
+                    "awayTeam": "Real Betis",
+                    "betTeam": 1,
+                    "bet": 1400000,
+                    "earn": 0,
+                    "winner": null,
+                    "status": "UNDEFINED"
+                },
+                "444600": {
+                    "date": "06/05/2024",
+                    "competition": "Serie A",
+                    "homeTeam": "Salernitana",
+                    "awayTeam": "Atalanta",
+                    "betTeam": 2,
+                    "bet": 100000,
+                    "earn": 200000,
+                    "winner": 2,
+                    "status": "WIN"
+                },
+                "444620": {
+                    "date": "20/05/2024",
+                    "competition": "Serie A",
+                    "homeTeam": "Salernitana",
+                    "awayTeam": "Verona",
+                    "betTeam": 2,
+                    "bet": 500000,
+                    "earn": 1000000,
+                    "winner": 2,
+                    "status": "WIN"
+                },
+                "494862": {
+                    "date": "09/05/2024",
+                    "competition": "Copa Libertadores",
+                    "homeTeam": "Liverpool",
+                    "awayTeam": "Palmeiras",
+                    "betTeam": 2,
+                    "bet": 150000,
+                    "earn": 900000,
+                    "winner": 2,
+                    "status": "WIN"
+                }
+            }
+        }
+    },
+    "100059180671724": {
+        "userName": null,
+        "fullName": "Dươngg Minhh Phúcc",
+        "shortName": "Phúcc",
+        "gender": "MALE",
+        "vocative": "thg mặt căk",
+        "profileUrl": "https://www.facebook.com/profile.php?id=100059180671724",
+        "profileImage": "https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p120x120&_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TjvMJrJitowQ7kNvgGiASlw&_nc_ht=scontent.fsgn5-12.fna&oh=00_AYDwLN9V1_tHWZDA0-YnLG44871H8zVNt6WLs15W7Orq4A&oe=667988F8",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 22303,
+        "inventory": {
+            "stocks": {
+                "NFLX": {
+                    "quantity": 30,
+                    "buyPrice": 486.66
+                },
+                "TSLA": {
+                    "quantity": 400,
+                    "buyPrice": 218.89
+                },
+                "INTC": {
+                    "quantity": 0,
+                    "buyPrice": 47.12
+                },
+                "GOOG": {
+                    "quantity": 500,
+                    "buyPrice": 144.24
+                },
+                "MCD": {
+                    "quantity": 50,
+                    "buyPrice": 293.47
+                }
+            },
+            "soccer": {
+                "436298": {
+                    "date": "06/05/2024",
+                    "competition": "Premier League",
+                    "homeTeam": "Crystal Palace",
+                    "awayTeam": "Man United",
+                    "betTeam": 1,
+                    "bet": 100000,
+                    "earn": 500000,
+                    "winner": 1,
+                    "status": "WIN"
+                },
+                "436321": {
+                    "date": "19/05/2024",
+                    "competition": "Premier League",
+                    "homeTeam": "Man City",
+                    "awayTeam": "West Ham",
+                    "betTeam": 1,
+                    "bet": 243591,
+                    "earn": 730773,
+                    "winner": 1,
+                    "status": "WIN"
+                },
+                "438850": {
+                    "date": "25/05/2024",
+                    "competition": "Primera Division",
+                    "homeTeam": "Real Madrid",
+                    "awayTeam": "Real Betis",
+                    "betTeam": 1,
+                    "bet": 800000,
+                    "earn": 0,
+                    "winner": null,
+                    "status": "UNDEFINED"
+                },
+                "444632": {
+                    "date": "25/05/2024",
+                    "competition": "Serie A",
+                    "homeTeam": "Milan",
+                    "awayTeam": "Salernitana",
+                    "betTeam": 1,
+                    "bet": 300000,
+                    "earn": 0,
+                    "winner": null,
+                    "status": "UNDEFINED"
+                },
+                "451683": {
+                    "date": "07/05/2024",
+                    "competition": "UEFA Champions League",
+                    "homeTeam": "PSG",
+                    "awayTeam": "Dortmund",
+                    "betTeam": 2,
+                    "bet": 70000,
+                    "earn": 140000,
+                    "winner": 2,
+                    "status": "WIN"
+                },
+                "451684": {
+                    "date": "08/05/2024",
+                    "competition": "UEFA Champions League",
+                    "homeTeam": "Real Madrid",
+                    "awayTeam": "Bayern",
+                    "betTeam": 2,
+                    "bet": 500000,
+                    "earn": 0,
+                    "winner": 1,
+                    "status": "LOSE"
+                }
+            }
+        }
+    },
+    "100070234073634": {
+        "userName": null,
+        "fullName": "Nguyễn Minh Quân",
+        "shortName": "Quân",
+        "gender": "MALE",
+        "vocative": "em troai",
+        "profileUrl": "https://www.facebook.com/profile.php?id=100070234073634",
+        "profileImage": "https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p120x120&_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TjvMJrJitowQ7kNvgGiASlw&_nc_ht=scontent.fsgn5-12.fna&oh=00_AYDwLN9V1_tHWZDA0-YnLG44871H8zVNt6WLs15W7Orq4A&oe=667988F8",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "ADMINISTRATOR",
+        "money": 32000,
+        "inventory": {
+            "stocks": {
+                "AAPL": {
+                    "quantity": 450,
+                    "buyPrice": 182.23
+                },
+                "MSFT": {
+                    "quantity": 350,
+                    "buyPrice": 388.47
+                },
+                "GOOG": {
+                    "quantity": 5000,
+                    "buyPrice": 144.24
+                },
+                "SHOP": {
+                    "quantity": 1400,
+                    "buyPrice": 81.31
+                }
+            },
+            "pets": {
+                "asil": {
+                    "time": "20:21:52 - 08/02/2024",
+                    "name": "Dái Bự Nhất Làng",
+                    "alive": true,
+                    "type": "Gà Asil",
+                    "health": 0,
+                    "endurance": 0,
+                    "damage": 0,
+                    "speed": 0.1,
+                    "exp": 14182.51,
+                    "equipment": ["spur", "scale"]
+                }
+            },
+            "petItems": {
+                "dumbKey": {
+                    "type": "key",
+                    "name": "Dumb Key",
+                    "quantity": 1
+                },
+                "spur": {
+                    "type": "equipment",
+                    "name": "Cựa Gà",
+                    "quantity": 1
+                },
+                "goldenSeed": {
+                    "type": "food",
+                    "name": "Thóc Vàng",
+                    "quantity": 5
+                },
+                "chicken": {
+                    "type": "food",
+                    "name": "Thịt Gà",
+                    "quantity": 1
+                },
+                "seed": {
+                    "type": "food",
+                    "name": "Thóc",
+                    "quantity": 0
+                },
+                "scale": {
+                    "type": "equipment",
+                    "name": "Vảy Gà",
+                    "quantity": 1
+                }
+            },
+            "soccer": {
+                "436298": {
+                    "date": "06/05/2024",
+                    "competition": "Premier League",
+                    "homeTeam": "Crystal Palace",
+                    "awayTeam": "Man United",
+                    "betTeam": 1,
+                    "bet": 10000,
+                    "earn": 50000,
+                    "winner": 1,
+                    "status": "WIN"
+                },
+                "437223": {
+                    "date": "04/05/2024",
+                    "competition": "Championship",
+                    "homeTeam": "Plymouth Arg",
+                    "awayTeam": "Hull City",
+                    "bet": 65010,
+                    "betTeam": 1,
+                    "earn": 130020,
+                    "winner": 1,
+                    "status": "WIN"
+                },
+                "438850": {
+                    "date": "25/05/2024",
+                    "competition": "Primera Division",
+                    "homeTeam": "Real Madrid",
+                    "awayTeam": "Real Betis",
+                    "betTeam": 1,
+                    "bet": 1015357,
+                    "earn": 0,
+                    "winner": null,
+                    "status": "UNDEFINED"
+                },
+                "444603": {
+                    "date": "06/05/2024",
+                    "competition": "Serie A",
+                    "homeTeam": "Udinese",
+                    "awayTeam": "Napoli",
+                    "betTeam": 2,
+                    "bet": 100000,
+                    "earn": 100000,
+                    "winner": 2,
+                    "status": "WIN"
+                },
+                "444620": {
+                    "date": "20/05/2024",
+                    "competition": "Serie A",
+                    "homeTeam": "Salernitana",
+                    "awayTeam": "Verona",
+                    "betTeam": 1,
+                    "bet": 70000,
+                    "earn": 0,
+                    "winner": 2,
+                    "status": "LOSE"
+                },
+                "451684": {
+                    "date": "08/05/2024",
+                    "competition": "UEFA Champions League",
+                    "homeTeam": "Real Madrid",
+                    "awayTeam": "Bayern",
+                    "betTeam": 2,
+                    "bet": 300000,
+                    "earn": 0,
+                    "winner": 1,
+                    "status": "LOSE"
+                }
+            }
+        }
+    },
+    "100073436232482": {
+        "userName": null,
+        "fullName": "Quân Xuân",
+        "shortName": "Quân",
+        "gender": "MALE",
+        "vocative": "thg lồn",
+        "profileUrl": "https://www.facebook.com/profile.php?id=100073436232482",
+        "profileImage": "https://scontent.fsgn5-3.fna.fbcdn.net/v/t39.30808-1/420146838_413679684423236_5950033782593346595_n.jpg?stp=dst-jpg_p120x120&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=bkpE0GENUksQ7kNvgHQOA3q&_nc_ht=scontent.fsgn5-3.fna&oh=00_AYCS7L6rXznmPVoyB569tIJLk-COR0HZ1HhxkFcjt0hbCg&oe=6657EBE0",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 113201,
+        "inventory": {
+            "stocks": {
+                "TSLA": {
+                    "quantity": 0,
+                    "buyPrice": 212.19
+                },
+                "GOOG": {
+                    "quantity": 1000,
+                    "buyPrice": 144.24
+                },
+                "SHOP": {
+                    "quantity": 0,
+                    "buyPrice": 83.54
+                }
+            },
+            "pets": {
+                "gallus": {
+                    "time": "20:21:21 - 08/02/2024",
+                    "name": "Chiến mã",
+                    "alive": true,
+                    "type": "Gà Gallus",
+                    "health": 0,
+                    "endurance": 0,
+                    "damage": 0,
+                    "speed": 0.1,
+                    "exp": 3090.81,
+                    "equipment": []
+                },
+                "sumatra": {
+                    "time": "20:45:16 - 08/02/2024",
+                    "name": "⭐️",
+                    "alive": true,
+                    "type": "Gà Sumatra",
+                    "health": 0,
+                    "endurance": 0,
+                    "damage": 0,
+                    "speed": 0.1,
+                    "exp": 3265.19,
+                    "equipment": ["scale", "spur"]
+                }
+            },
+            "petItems": {
+                "goldenSeed": {
+                    "type": "food",
+                    "name": "Thóc Vàng",
+                    "quantity": 0
+                },
+                "dumbKey": {
+                    "type": "key",
+                    "name": "Dumb Key",
+                    "quantity": 0
+                },
+                "chicken": {
+                    "type": "food",
+                    "name": "Thịt Gà",
+                    "quantity": 0
+                },
+                "seed": {
+                    "type": "food",
+                    "name": "Thóc",
+                    "quantity": 0
+                },
+                "scale": {
+                    "type": "equipment",
+                    "name": "Vảy Gà",
+                    "quantity": 1
+                },
+                "spur": {
+                    "type": "equipment",
+                    "name": "Cựa Gà",
+                    "quantity": 1
+                }
+            },
+            "soccer": {}
+        }
+    },
+    "100084798350441": {
+        "userName": null,
+        "fullName": "Nguyễn Minh Phước",
+        "shortName": "Phước",
+        "gender": "MALE",
+        "vocative": "thg ngu",
+        "profileUrl": "https://www.facebook.com/profile.php?id=100084798350441",
+        "profileImage": "https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p120x120&_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TjvMJrJitowQ7kNvgGiASlw&_nc_ht=scontent.fsgn5-12.fna&oh=00_AYDwLN9V1_tHWZDA0-YnLG44871H8zVNt6WLs15W7Orq4A&oe=667988F8",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 49990,
+        "inventory": {
+            "stocks": {
+                "INTC": {
+                    "quantity": 0,
+                    "buyPrice": 43.65
+                },
+                "GOOG": {
+                    "quantity": 0,
+                    "buyPrice": 144.24
+                },
+                "MSFT": {
+                    "quantity": 0,
+                    "buyPrice": 388.47
+                },
+                "NFLX": {
+                    "quantity": 0,
+                    "buyPrice": 492.16
+                }
+            },
+            "pets": {
+                "sumatra": {
+                    "time": "20:21:27 - 08/02/2024",
+                    "name": "cặc to",
+                    "alive": true,
+                    "type": "Gà Sumatra",
+                    "health": 4049.07,
+                    "endurance": 54.15,
+                    "damage": 416.8,
+                    "speed": 4.38,
+                    "exp": 34120.02,
+                    "equipment": ["spur", "scale"]
+                }
+            },
+            "petItems": {
+                "dumbKey": {
+                    "type": "key",
+                    "name": "Dumb Key",
+                    "quantity": 1
+                },
+                "seed": {
+                    "type": "food",
+                    "name": "Thóc",
+                    "quantity": 51
+                },
+                "chicken": {
+                    "type": "food",
+                    "name": "Thịt Gà",
+                    "quantity": 10
+                },
+                "goldenSeed": {
+                    "type": "food",
+                    "name": "Thóc Vàng",
+                    "quantity": 8
+                },
+                "spur": {
+                    "type": "equipment",
+                    "name": "Cựa Gà",
+                    "quantity": 5
+                },
+                "scale": {
+                    "type": "equipment",
+                    "name": "Vảy Gà",
+                    "quantity": 3
+                }
+            },
+            "soccer": {
+                "436322": {
+                    "date": "19/05/2024",
+                    "competition": "Premier League",
+                    "homeTeam": "Sheffield Utd",
+                    "awayTeam": "Tottenham",
+                    "betTeam": 2,
+                    "bet": 600000,
+                    "earn": 2400000,
+                    "winner": 2,
+                    "status": "WIN"
+                },
+                "438842": {
+                    "date": "19/05/2024",
+                    "competition": "Primera Division",
+                    "homeTeam": "Villarreal",
+                    "awayTeam": "Real Madrid",
+                    "betTeam": 2,
+                    "bet": 50000,
+                    "earn": 50000,
+                    "winner": 2,
+                    "status": "WIN"
+                },
+                "438850": {
+                    "date": "25/05/2024",
+                    "competition": "Primera Division",
+                    "homeTeam": "Real Madrid",
+                    "awayTeam": "Real Betis",
+                    "betTeam": 1,
+                    "bet": 1700000,
+                    "earn": 0,
+                    "winner": null,
+                    "status": "UNDEFINED"
+                },
+                "444620": {
+                    "date": "20/05/2024",
+                    "competition": "Serie A",
+                    "homeTeam": "Salernitana",
+                    "awayTeam": "Verona",
+                    "betTeam": 1,
+                    "bet": 700000,
+                    "earn": 0,
+                    "winner": 2,
+                    "status": "LOSE"
+                },
+                "494813": {
+                    "date": "08/05/2024",
+                    "competition": "Copa Libertadores",
+                    "homeTeam": "Talleres",
+                    "awayTeam": "Barcelona SC",
+                    "betTeam": 2,
+                    "bet": 200000,
+                    "earn": 0,
+                    "winner": 1,
+                    "status": "LOSE"
+                },
+                "494862": {
+                    "date": "09/05/2024",
+                    "competition": "Copa Libertadores",
+                    "homeTeam": "Liverpool",
+                    "awayTeam": "Palmeiras",
+                    "betTeam": 2,
+                    "bet": 100000,
+                    "earn": 600000,
+                    "winner": 2,
+                    "status": "WIN"
+                }
+            }
+        }
+    },
+    "100085657698541": {
+        "userName": null,
+        "fullName": "Như Phúc",
+        "shortName": "Như",
+        "gender": "MALE",
+        "vocative": "em trai",
+        "profileUrl": "https://www.facebook.com/profile.php?id=100085657698541",
+        "profileImage": "https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-1/307211216_106577265540863_6108618466313782215_n.jpg?stp=dst-jpg_p120x120&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ehS-DD9WOHAQ7kNvgGpUfG3&_nc_ht=scontent.fsgn5-10.fna&oh=00_AYBBXHLpYkkFnETLoPW_kkYtM7zx-t_kdebc7SHdMwtiLA&oe=6657DFF1",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 497738,
+        "inventory": {
+            "stocks": {
+                "INTC": {
+                    "quantity": 0,
+                    "buyPrice": 47.12
+                },
+                "GOOG": {
+                    "quantity": 0,
+                    "buyPrice": 144.24
+                },
+                "MCD": {
+                    "quantity": 0,
+                    "buyPrice": 293.47
+                },
+                "NFLX": {
+                    "quantity": 0,
+                    "buyPrice": 510.27
+                }
+            },
+            "pets": {
+                "gallus": {
+                    "time": "21:31:16 - 08/02/2024",
+                    "name": "Ngứa dái",
+                    "alive": true,
+                    "type": "Gà Gallus",
+                    "health": 0,
+                    "endurance": 0,
+                    "damage": 0,
+                    "speed": 0.1,
+                    "exp": 5000,
+                    "equipment": []
+                }
+            },
+            "petItems": {},
+            "soccer": {
+                "436298": {
+                    "date": "06/05/2024",
+                    "competition": "Premier League",
+                    "homeTeam": "Crystal Palace",
+                    "awayTeam": "Man United",
+                    "betTeam": 1,
+                    "bet": 50000,
+                    "earn": 250000,
+                    "winner": 1,
+                    "status": "WIN"
+                },
+                "436322": {
+                    "date": "19/05/2024",
+                    "competition": "Premier League",
+                    "homeTeam": "Sheffield Utd",
+                    "awayTeam": "Tottenham",
+                    "betTeam": 2,
+                    "bet": 50000,
+                    "earn": 200000,
+                    "winner": 2,
+                    "status": "WIN"
+                },
+                "438849": {
+                    "date": "25/05/2024",
+                    "competition": "Primera Division",
+                    "homeTeam": "Rayo Vallecano",
+                    "awayTeam": "Athletic",
+                    "betTeam": 1,
+                    "bet": 50000,
+                    "earn": 0,
+                    "winner": null,
+                    "status": "UNDEFINED"
+                },
+                "494802": {
+                    "date": "09/05/2024",
+                    "competition": "Copa Libertadores",
+                    "homeTeam": "Colo-Colo",
+                    "awayTeam": "Fluminense",
+                    "betTeam": 2,
+                    "bet": 50000,
+                    "earn": 100000,
+                    "winner": 2,
+                    "status": "WIN"
+                }
+            }
+        }
+    },
+    "100056028156125": {
+        "userName": null,
+        "fullName": "Diệu Hiền",
+        "shortName": "Hiền",
+        "gender": "FEMALE",
+        "vocative": "đĩ",
+        "profileUrl": "https://www.facebook.com/profile.php?id=100056028156125",
+        "profileImage": "https://scontent.fsgn5-3.fna.fbcdn.net/v/t39.30808-1/427871382_866484131895851_5717817426939789605_n.jpg?stp=dst-jpg_p120x120&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=rZKNyiFB7ZgQ7kNvgE_VhFb&_nc_ht=scontent.fsgn5-3.fna&oh=00_AYD-lORoEKSofhhwBvykOXSZBQ9ig2FsX3LrWD73jfxWHA&oe=6657D71D",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 219113,
+        "inventory": {}
+    },
+    "100060202427233": {
+        "userName": null,
+        "fullName": "Nguyễn Hữu Phúc",
+        "shortName": "Phúc",
+        "gender": "MALE",
+        "vocative": "anh",
+        "profileUrl": "https://www.facebook.com/profile.php?id=100060202427233",
+        "profileImage": "https://scontent.fsgn5-12.fna.fbcdn.net/v/t39.30808-1/332511815_863552478276979_4339005361682715842_n.jpg?stp=c0.40.120.120a_dst-jpg_p120x120&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=MY7ETdj-DhUQ7kNvgGxhjPM&_nc_ht=scontent.fsgn5-12.fna&oh=00_AYDydI-5DCexSD46wTBU6djQ8bSQcVmzuXfw6u49O7DSAQ&oe=6657F1D7",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 102300,
+        "inventory": {}
+    },
+    "100064161337421": {
+        "userName": null,
+        "fullName": "Phương Uyên",
+        "shortName": "Uyên",
+        "gender": "FEMALE",
+        "vocative": "đĩ",
+        "profileUrl": "https://www.facebook.com/profile.php?id=100064161337421",
+        "profileImage": "https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p120x120&_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TjvMJrJitowQ7kNvgGiASlw&_nc_ht=scontent.fsgn5-12.fna&oh=00_AYDwLN9V1_tHWZDA0-YnLG44871H8zVNt6WLs15W7Orq4A&oe=667988F8",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 104309,
+        "inventory": {
+            "stocks": {
+                "MCD": {
+                    "quantity": 0,
+                    "buyPrice": 293.47
+                },
+                "SHOP": {
+                    "quantity": 50,
+                    "buyPrice": 81.4
+                },
+                "GOOG": {
+                    "quantity": 1000,
+                    "buyPrice": 144.24
+                },
+                "NFLX": {
+                    "quantity": 20,
+                    "buyPrice": 492.16
+                },
+                "TSLA": {
+                    "quantity": 20,
+                    "buyPrice": 218.89
+                }
+            }
+        }
+    },
+    "100066000534892": {
+        "userName": "ThanhhPhuong.908",
+        "fullName": "Thanh Phương",
+        "shortName": "Phương",
+        "gender": "FEMALE",
+        "vocative": "chị gái",
+        "profileUrl": "https://www.facebook.com/ThanhhPhuong.908",
+        "profileImage": "https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p120x120&_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TjvMJrJitowQ7kNvgGiASlw&_nc_ht=scontent.fsgn5-12.fna&oh=00_AYDwLN9V1_tHWZDA0-YnLG44871H8zVNt6WLs15W7Orq4A&oe=667988F8",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 109741,
+        "inventory": {}
+    },
+    "100073493327793": {
+        "userName": "justaplay",
+        "fullName": "Phuongw Linh",
+        "shortName": "Linh",
+        "gender": "FEMALE",
+        "vocative": "em goái",
+        "profileUrl": "https://www.facebook.com/justaplay",
+        "profileImage": "https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-1/435746889_465536665906107_8236961862752252277_n.jpg?stp=dst-jpg_p120x120&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=DZn0-aLfB5oQ7kNvgF6FTsn&_nc_ht=scontent.fsgn5-14.fna&oh=00_AYAxgrsNGFAvIRxcPiXc58pHMNeZdp_cs3YxH6KWs6kzSA&oe=6657D544",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 129100,
+        "inventory": {}
+    },
+    "100034068162432": {
+        "userName": null,
+        "fullName": "Nguyễn Khôi",
+        "shortName": "Khôi",
+        "gender": "MALE",
+        "vocative": "thg mặt căk",
+        "profileUrl": "https://www.facebook.com/profile.php?id=100034068162432",
+        "profileImage": "https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p120x120&_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TjvMJrJitowQ7kNvgGiASlw&_nc_ht=scontent.fsgn5-12.fna&oh=00_AYDwLN9V1_tHWZDA0-YnLG44871H8zVNt6WLs15W7Orq4A&oe=667988F8",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 1000,
+        "inventory": {}
+    },
+    "100083074574418": {
+        "userName": null,
+        "fullName": "Dat Phung",
+        "shortName": "Dat",
+        "gender": "MALE",
+        "vocative": "em troai",
+        "profileUrl": "https://www.facebook.com/profile.php?id=100083074574418",
+        "profileImage": "https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-1/416953974_353640597415090_7281027397606668679_n.jpg?stp=dst-jpg_p120x120&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KGEBBaW33I4Q7kNvgF2ydqT&_nc_ht=scontent.fsgn5-5.fna&oh=00_AYDaeBhy7RpLD3pI74Xzfo_Cod_bOulScExwbvzfujdM6g&oe=6657DF60",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 1000,
+        "inventory": {}
+    },
+    "100035141751695": {
+        "userName": "nguyenthi.bichlien.9674",
+        "fullName": "Minh Hoàng",
+        "shortName": "Hoàng",
+        "gender": "FEMALE",
+        "vocative": "chị gái",
+        "profileUrl": "https://www.facebook.com/nguyenthi.bichlien.9674",
+        "profileImage": "https://scontent.fsgn5-8.fna.fbcdn.net/v/t39.30808-1/376685473_1018541772660538_7091708934811145262_n.jpg?stp=dst-jpg_p120x120&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=SNBPuBARM8gQ7kNvgF_OKWW&_nc_ht=scontent.fsgn5-8.fna&oh=00_AYAY2UCx4cpe3CRIF5-lYmhrO-En6GZYoxaMDkXFkvJ9ng&oe=6657EFBF",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 1000,
+        "inventory": {}
+    },
+    "100070290303618": {
+        "userName": null,
+        "fullName": "Nguyễn Mai",
+        "shortName": "Mai",
+        "gender": "FEMALE",
+        "vocative": "chị gái",
+        "profileUrl": "https://www.facebook.com/profile.php?id=100070290303618",
+        "profileImage": "https://scontent.fsgn5-3.fna.fbcdn.net/v/t39.30808-1/362278190_332423282444013_1497279081949724556_n.jpg?stp=dst-jpg_p120x120&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PhqdLnATR0IQ7kNvgF38Zud&_nc_ht=scontent.fsgn5-3.fna&oh=00_AYDaxxnn3s6ViLK1rEM8YB7Z9sgo97i6guoeMW-lxla5Gw&oe=6657CBDD",
+        "isFriend": true,
+        "isBlocked": false,
+        "rank": "USER",
+        "money": 1000,
+        "inventory": {}
+    }
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sua Bot - V2.0</title>
+    <style>
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+::selection {
+    background-color: transparent;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background: #FFFAEF;
+    background: linear-gradient(145deg, #FFFAEF 40%, #FBEBD8 40%, #FBEBD8 55%, #FFFAEF 55%, #FFFAEF 56%, #FBEBD8 56%, #FBEBD8 57%, #FFFAEF 57%);
+    font-family: calibri;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    overflow-x: hidden;
+}
+
+#main {
+    width: clamp(300px, 80vw, 800px);
+    background-color: #1F1F1F75;
+    backdrop-filter: blur(4px);
+    border: clamp(4px, 0.5vw, 6px) solid #FBEBD8;
+    border-radius: clamp(8px, 1vw, 16px);
+    box-shadow: 0 0 clamp(10px, 1.5vw, 15px) #1F1F1F;
+    padding-top: clamp(10px, 1vw, 15px);
+    padding-bottom: clamp(20px, 5vw, 50px);
+}
+
+.mainTitle {
+    color: #FBEBD8;
+    font-size: clamp(30px, 4vw, 50px);
+    font-weight: 900;
+    letter-spacing: clamp(1.5px, 0.1vw, 3px);
+    text-shadow: 0 0 clamp(5px, 2vw, 15px) #FFFAEF;
+    text-align: center;
+    margin-top: clamp(25px, 3vw, 45px);
+}
+
+.mainSubTitle {
+    color: #FFFAEF;
+    font-size: clamp(12px, 1vw, 20px);
+    letter-spacing: clamp(2.5px, 0.2vw, 3px);
+    text-align: center;
+    margin-top: clamp(5px, 2vw, 10px);
+}
+    </style>
+</head>
+<body>
+    <div id="main">
+        <p class="mainTitle">SuaBot - Version 2.0</p>
+        <p class="mainSubTitle">A fucking chatbot created by MinhQuan</p>
+    </div>
+</body>
+</html>
