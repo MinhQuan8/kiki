@@ -74,11 +74,6 @@ function loginState() {
         try {
             login(credential, option, async (err, api) => {
                 if (err) return reject(err);
-                console.log("Current ID:", await api.getCurrentUserID());
-
-                api.sendMessage("Test", await api.getCurrentUserID(), (err) => {
-                    console.log("Send:", err || "OK");
-                });
                 resolve(api);
             });
         } catch (err) {
